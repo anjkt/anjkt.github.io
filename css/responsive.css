@@ -1,0 +1,176 @@
+
+
+/* #Media Queries
+================================================== */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	.dright {
+    padding: 20px 0px;
+}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.banner {
+    padding: 130px 0 50px;
+	}
+	header {
+    padding-top: 30px;
+	}
+	.dright {
+    padding: 10px 0px;
+}
+.development {
+    padding-top: 50px;
+}
+.development h2 {
+    font-size: 36px;
+}
+.about {
+    padding: 40px 0 0px;
+}
+.about p {
+    color: #fff;
+    padding-bottom: 0px;
+    padding: 0 0px 20px;
+}
+.red {
+    padding: 15px 0;
+    margin-top: 15px;
+}
+.red p {
+    font-size: 16px;
+}
+.Work {
+    padding: 50px 0;
+}
+.Work p {
+    padding: 40px 0px 0;
+}
+.imgDescription2 {
+    padding-top: 9%
+}
+.testimonials p {
+    padding: 0 0px 20px;
+}
+.contact p {
+    padding: 10px 0px 35px;
+}
+.contact {
+    padding: 50px 0;
+}
+	}
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {
+		
+		}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {
+		.banner {
+    padding: 70px 0 30px;
+	}
+	header {
+    padding-top: 30px;
+	}
+	.dright {
+    padding: 10px 0px;
+}
+.development {
+    padding-top: 30px;
+}
+
+.about {
+    padding: 40px 0 0px;
+}
+.about p {
+    color: #fff;
+    padding-bottom: 0px;
+    padding: 0 0px 20px;
+}
+.red {
+    padding: 15px 0;
+    margin-top: 15px;
+}
+.red p {
+    font-size: 16px;
+}
+.Work {
+    padding: 30px 0;
+}
+.Work p {
+    padding: 10px 0px 0;
+}
+.imgDescription2 {
+    padding-top: 20%
+}
+.testimonials p {
+    padding: 0 0px 20px;
+}
+.contact p {
+    padding: 10px 0px 35px;
+}
+.contact {
+    padding: 50px 0;
+}
+.banner h2 {
+    font-size: 21px;
+    padding: 10px 0 10px;
+}
+.banner p {
+    font-size: 16px;
+    line-height: 27px;
+    padding-bottom: 30px;
+}
+.width25 {
+    width: 100%;
+    margin-bottom: 30px;
+}
+span.line{display:none;}
+.logos {
+    padding: 30px 0 0;
+}
+.development a{margin-bottom:20px; display: inline-block;}
+.development h2 , .about h2 , .Work h2 , .contact h2{
+    font-size: 24px;
+}
+.about img {
+    margin-bottom: 11px;
+}
+#filters li span{margin-bottom:10px;}
+.imgDescription2 img {
+    width: 50px !important;
+}
+.testimonials {
+    padding: 30px 0 40px;
+}
+.testimonials h2 {
+    font-size: 21px;
+    padding: 10px 0;
+}
+.contact p {
+    padding: 0px 0px 20px;
+}
+.content iframe{height:250px;}
+.social a i {
+    font-size: 26px;
+    margin: 0 10px;
+}
+.social {
+    padding: 29px 0;
+}
+		}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {
+		
+		}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {
+		
+		
+		}
+

@@ -1,0 +1,89 @@
+#filters {
+	margin: 1%;
+	padding: 0;
+	list-style: none;
+	text-align: center;
+}
+#filters li {
+	display: inline-block;
+}
+#filters li span {
+	display: block;
+	padding: 5px 25px;
+	border:2px solid #666666;
+	text-decoration: none;
+	color: #666666;
+	cursor: pointer;
+	border-radius:3px;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+#filters li span.active {
+	color: #fff;
+	border:2px solid #e74c3c;
+	background:#e74c3c;
+	font-weight: 700;
+}
+#portfoliolist .portfolio {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	width: 25%;
+	display: none;
+	float: left;
+	overflow: hidden;
+}
+#portfoliolist .portfolio img{width:100%; display:block;}
+.portfolio-wrapper {
+	overflow: hidden;
+	position: relative !important;
+	background: #fff;
+	cursor: pointer;
+}
+.portfolio img {
+	max-width: 100%;
+	position: relative;
+}
+
+.imgDescription2 {
+  position: absolute;
+  top: 0px;
+  bottom: 0;
+  left: 0px;
+  right: 0;
+  background:  rgba(231,76,60,0.8);
+  color: #fff;
+	width:100%;
+	height:auto;
+font-size:18px;
+	font-weight:400;
+	text-align:center;
+  visibility: hidden;
+  opacity: 0;
+  padding-top:25%;
+  transition:all 0.5s;
+  cursor:pointer;
+
+  /*remove comment if you want a gradual transition between states
+  -webkit-transition: visibility opacity 0.2s;
+  */
+}
+.portfolio:hover .imgDescription2 {
+  visibility: visible;
+  opacity: 1;
+}
+
+.imgDescription2 img {
+	width: auto !important;
+    margin: 0 auto;
+}
+
+
+/*  #Mobile (Portrait) - Note: Design for a width of 320px */
+@media only screen and (max-width: 767px) {
+#portfoliolist .portfolio {
+	width: 48%;
+	margin: 1%;
+}
+}
+
