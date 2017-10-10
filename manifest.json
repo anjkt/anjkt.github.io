@@ -1,0 +1,27 @@
+{
+  "name" : "RDEC",
+  "short_name" : "RDEC",
+  "display": "standalone",
+  "start_url" : "/pwa/",
+  "orientation": "portrait",
+  "scope" : "/",
+  "theme_color" : "#9C27B0",
+  "author": {
+    "name": "Anjani Kumar Thakur",
+    "website": "https://www.facebook.com/officialvats"
+  },
+  "background_color" : "#8b008b",
+  "icons" : [
+   {
+      "src": "/pwa/images/manifest/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa/images/manifest/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  
+  ]
+}
