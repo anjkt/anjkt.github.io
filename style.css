@@ -71,7 +71,7 @@ header {
 header.sticky {
 	position: fixed;
 	width: 100%;
-	background: #3a5169;
+	background: #4267b2;
 	box-shadow: 3px 1px 0.99px 0.01px rgba(0, 0, 0, 0.05);
 	padding: 20px 0;
 }
