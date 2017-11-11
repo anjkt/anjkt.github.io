@@ -1,0 +1,308 @@
+
+<!-- Quote Section
+================================================== -->
+<section id="quote" class="quote-section">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 quote-headline">
+                <h4 class="wow fadeIn animated">We are here to <span>make things Better</span></h4>
+            </div>
+            <div class="col-md-12 quote-bottom">
+                <div class="container">
+                    <h3 class="wow fadeIn animated">
+                        "Patience, persistence and perspiration make an unbeatable combination for
+                        <span class="primary">success</span>."
+                    </h3>
+                    <p class="wow fadeIn animated">NAPOLEON HILL<span> - Author</span></p>
+                </div>
+            </div>
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+</section>
+<!-- /.quote-section -->
+
+<!-- Services Section
+================================================== -->
+<section id="services" class="services-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 service-headline">
+                <h2 class="wow fadeIn animated">What We do, We do <span class="primary">Best!</span></h2>
+                <p class="wow fadeIn animated">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
+                    odio. Praesent libero. Sed
+                    cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.
+                    Praesent mauris.</p>
+            </div>
+            <div class="col-md-12 service-content">
+                <div class="left">
+                    <div class="service wow fadeIn animated">
+                        <div class="text">
+                            <a href="service-item-dark.html" class="primary-hover">Graphic Design</a>
+                            <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+                        </div>
+                        <div class="icons">
+                            <i class="material-icons primary">create</i>
+                        </div>
+                    </div>
+                    <div class="service wow fadeIn animated">
+                        <div class="text">
+                            <a href="service-item-dark.html" class="primary-hover">Web Design</a>
+                            <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+                        </div>
+                        <div class="icons">
+                            <i class="material-icons primary">screen_share</i>
+                        </div>
+                    </div>
+                    <div class="service wow fadeIn animated">
+                        <div class="text">
+                            <a href="service-item-dark.html" class="primary-hover">Social Media</a>
+                            <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+                        </div>
+                        <div class="icons">
+                            <i class="material-icons primary">devices</i>
+                        </div>
+                    </div>
+                </div>
+                <div class="service-image">
+                    <img src="assets/images/iphone-services.png" alt="iphone">
+                </div>
+                <div class="right">
+                    <div class="service-2 wow fadeIn animated">
+                        <div class="icons">
+                            <i class="material-icons primary">photo_camera</i>
+                        </div>
+                        <div class="text">
+                            <a href="service-item-dark.html" class="primary-hover">Photography</a>
+                            <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+                        </div>
+                    </div>
+                    <div class="service-2 wow fadeIn animated">
+                        <div class="icons">
+                            <i class="material-icons primary">mic</i>
+                        </div>
+                        <div class="text">
+                            <a href="service-item-dark.html" class="primary-hover">Marketing</a>
+                            <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+                        </div>
+                    </div>
+                    <div class="service-2 wow fadeIn animated">
+                        <div class="icons">
+                            <i class="material-icons primary">play_circle_filled</i>
+                        </div>
+                        <div class="text">
+                            <a href="service-item-dark.html" class="primary-hover">Video Production</a>
+                            <p>Lorem ipsum dolor sit amet, consecte adipiscing elit. Integer nec odio.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- /.service-section -->
+
+<!-- Call To Action Section
+================================================== -->
+<section id="call-to" class="call-to-section">
+    <div class="call-to-layer main-gradient"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3 class="wow fadeIn animated">Like what You see? <span>Get Particle</span> Now!</h3>
+                <p class="wow fadeIn animated">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
+                    odio. Praesent libero. Sed
+                    cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.
+                    Praesent mauris.</p>
+                <button class="btn btn-default wow fadeInRight hvr-sweep-to-right button-gradient animated">Get it Now</button>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /.call-to-section -->
+
+<!-- Skills Section
+================================================== -->
+<section id="skills" class="skills-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="skills-headline">
+                    <h4 class="wow fadeIn animated">Let <span>Our Skills</span> speak for Us</h4>
+                    <p class="wow fadeIn animated">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
+                        odio. Praesent libero. Sed
+                        cursus ante dapibus diam.</p>
+                </div>
+            </div>
+            <div class="col-md-12 progress-bar-wrapper">
+                <div class="progress-bars">
+                    <div class="bar-wrapper">
+                        <div class="col-md-3 col-sm-3 col-xs-4 wow fadeIn animated">Adobe creative cloud</div>
+                        <div class="col-md-8 col-sm-8 col-xs-7">
+                            <div class="progressBar skill-bar-gradient wow animated first-bar"></div>
+                        </div>
+                        <div class="col-md-1 col-sm-1 col-xs-1">
+                            <span class="counter">75</span><span>%</span>
+                        </div>
+                    </div>
+                    <div class="bar-wrapper">
+                        <div class="col-md-3 col-sm-3 col-xs-4 wow fadeIn animated">WORDPRESS</div>
+                        <div class="col-md-8 col-sm-8 col-xs-7">
+                            <div class="progressBar skill-bar-gradient wow animated second-bar"></div>
+                        </div>
+                        <div class="col-md-1 col-sm-1 col-xs-1">
+                            <span class="counter">80</span><span>%</span>
+                        </div>
+                    </div>
+                    <div class="bar-wrapper">
+                        <div class="col-md-3 col-sm-3 col-xs-4 wow fadeIn animated">Laravel</div>
+                        <div class="col-md-8 col-sm-8 col-xs-7">
+                            <div class="progressBar skill-bar-gradient wow animated third-bar"></div>
+                        </div>
+                        <div class="col-md-1 col-sm-1 col-xs-1">
+                            <span class="counter">50</span><span>%</span>
+                        </div>
+                    </div>
+                    <div class="bar-wrapper">
+                        <div class="col-md-3 col-sm-3 col-xs-4 wow fadeIn animated">GRAPHIC DESIGN</div>
+                        <div class="col-md-8 col-sm-8 col-xs-7">
+                            <div class="progressBar skill-bar-gradient wow animated fourth-bar"></div>
+                        </div>
+                        <div class="col-md-1 col-sm-1 col-xs-1">
+                            <span class="counter">70</span><span>%</span>
+                        </div>
+                    </div>
+                    <div class="bar-wrapper">
+                        <div class="col-md-3 col-sm-3 col-xs-4 wow fadeIn animated">HTML / CSS / JAVASCRIPT</div>
+                        <div class="col-md-8 col-sm-8 col-xs-7">
+                            <div class="progressBar skill-bar-gradient wow animated fifth-bar"></div>
+                        </div>
+                        <div class="col-md-1 col-sm-1 col-xs-1">
+                            <span class="counter">59</span><span>%</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /.skills-section -->
+
+<!-- Contact Section
+================================================== -->
+<section id="contact" class="contact-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="contact-headline">
+                    <h3 class="wow fadeIn animated">Let's <span>Connect</span></h3>
+                    <p class="wow fadeIn animated">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
+                        odio. Praesent libero. Sed
+                        cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis
+                        ipsum. Praesent mauris.</p>
+                </div>
+
+                <div class="contact-content">
+                    <div class="contact-info">
+                        <p class="contact-header">Our office <span>info</span></p>
+                        <div class="info-line">
+                            <div class="info-icon wow fadeIn animated">
+                                <i class="fa fa-envelope-o primary" aria-hidden="true"></i>
+                            </div>
+                            <div class="info-text wow fadeIn animated">
+                                <p>particle@museshop.net</p>
+                            </div>
+                        </div>
+                        <div class="info-line">
+                            <div class="info-icon wow fadeIn animated">
+                                <i class="fa fa-phone primary" aria-hidden="true"></i>
+                            </div>
+                            <div class="info-text wow fadeIn animated">
+                                <p>+381 (0) 21 555 4597</p>
+                            </div>
+                        </div>
+
+                        <div class="info-line">
+                            <div class="info-icon wow fadeIn animated">
+                                <i class="fa fa-address-card-o primary" aria-hidden="true"></i>
+                            </div>
+                            <div class="info-text wow fadeIn animated">
+                                <p>555 Downing st. Suite 1000</p>
+                            </div>
+                        </div>
+
+                        <div class="info-line">
+                            <div class="info-icon wow fadeIn animated">
+                                <i class="fa fa-map-marker primary" aria-hidden="true"></i>
+                            </div>
+                            <div class="info-text wow fadeIn animated">
+                                <p>New York, NY 10010</p>
+                            </div>
+                        </div>
+
+                        <div class="bottom-info">
+                            <h4 class="wow fadeIn animated"><span>Connect</span> with us</h4>
+
+                            <ul class="list-inline social-icons wow fadeIn animated">
+                                <li>
+                                    <a href="#" class="primary-2-back primary-back-hover">
+                                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="primary-2-back primary-back-hover">
+                                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="primary-2-back primary-back-hover">
+                                        <i class="fa fa-google-plus" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" class="primary-2-back primary-back-hover">
+                                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <p class="wow fadeIn animated">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-form">
+                        <h4 class="wow fadeIn animated">Send us a <span>Message</span></h4>
+
+                        <form method="post">
+                            <div class="form-group wow fadeIn animated">
+                                <label for="name">Name: </label>
+                                <input type="text" id="name" name="name" class="form-control">
+                            </div>
+                            <!-- /.form-group -->
+
+                            <div class="form-group wow fadeIn animated">
+                                <label for="email">Email: </label>
+                                <input type="email" id="email" name="email" class="form-control">
+                            </div>
+                            <!-- /.form-group -->
+
+
+                            <div class="form-group wow fadeIn animated">
+                                <label for="message">Message: </label>
+                                <textarea id="message" name="message" class="form-control" rows="4"></textarea>
+                            </div>
+                            <!-- /.form-group -->
+
+
+                            <button class="btn btn-default wow fadeIn primary-back-hover primary-hover-border animated" type="submit">Submit</button>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /.contact-section -->
