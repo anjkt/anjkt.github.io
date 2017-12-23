@@ -1,0 +1,202 @@
+<!-- Our Work Section
+================================================== -->
+<section id="our-work" class="our-work-section">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 see-work">
+                <h2 class="wow fadeInLeft animated">Our Sponsers</h2>
+            </div>
+            <div class="col-md-12 new-style">
+                <p class="wow fadeInLeft animated"><a href="#" class="secondary">Its an oppoturnity. You have never experienced.</a></p>
+            </div>
+            <div class="col-md-12 portfolio-images">
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="portfolio-img first">
+                        <img class="img-responsive" src="assets/images/google-icon.jpg"
+                             alt="porftofilio thumbnail">
+                        <div class="sweep-left image-gradient"></div>
+                        <div class="sweep-from-center">
+                            <div class="sweep-layer">
+                                <div class="sweep-content">
+                                    <div class="sweep-icon">
+                                        <a href="#">
+                                            <i class="fa fa-eye primary-3" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                    <h3><a href="#">Google India</a></h3>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sweep-right image-gradient"></div>
+                    </div>
+                    <!-- /.portfolio-img -->
+                </div>
+
+                
+
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="portfolio-img second">
+                        <img class="img-responsive" src="assets/images/fb-icon.png"
+                             alt="porftofilio thumbnail">
+                        <div class="sweep-left image-gradient"></div>
+                        <div class="sweep-from-center">
+                            <div class="sweep-layer">
+                                <div class="sweep-content">
+                                    <div class="sweep-icon">
+                                        <a href="#">
+                                            <i class="fa fa-eye primary-3" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                    <h3><a href="#">Facebook Inc.</a></h3>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sweep-right image-gradient"></div>
+                    </div>
+                    <!-- /.portfolio-img -->
+                </div>
+
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="portfolio-img third">
+                        <img class="img-responsive" src="assets/images/micro.png"
+                             alt="porftofilio thumbnail">
+                        <div class="sweep-left image-gradient"></div>
+                        <div class="sweep-from-center">
+                            <div class="sweep-layer">
+                                <div class="sweep-content">
+                                    <div class="sweep-icon">
+                                        <a href="#">
+                                            <i class="fa fa-eye primary-3" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                    <h3><a href="#">Microsoft Corp.</a></h3>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sweep-right image-gradient"></div>
+                    </div>
+                    <!-- /.portfolio-img -->
+                </div>
+                
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="portfolio-img fourth">
+                        <img class="img-responsive" src="assets/images/git.png"
+                             alt="porftofilio thumbnail">
+                        <div class="sweep-left image-gradient"></div>
+                        <div class="sweep-from-center">
+                            <div class="sweep-layer">
+                                <div class="sweep-content">
+                                    <div class="sweep-icon">
+                                        <a href="#">
+                                            <i class="fa fa-eye primary-3" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                    <h3><a href="#">GitHub</a></h3>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sweep-right image-gradient"></div>
+                    </div>
+                    <!-- /.portfolio-img -->
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="portfolio-img second">
+                        <img class="img-responsive" src="assets/images/jet.png"
+                             alt="porftofilio thumbnail">
+                        <div class="sweep-left image-gradient"></div>
+                        <div class="sweep-from-center">
+                            <div class="sweep-layer">
+                                <div class="sweep-content">
+                                    <div class="sweep-icon">
+                                        <a href="#">
+                                            <i class="fa fa-eye primary-3" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                    <h3><a href="#">Jet Brains</a></h3>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sweep-right image-gradient"></div>
+                    </div>
+                    <!-- /.portfolio-img -->
+                </div>
+
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="portfolio-img third">
+                        <img class="img-responsive" src="assets/images/lab.png"
+                             alt="porftofilio thumbnail">
+                        <div class="sweep-left image-gradient"></div>
+                        <div class="sweep-from-center">
+                            <div class="sweep-layer">
+                                <div class="sweep-content">
+                                    <div class="sweep-icon">
+                                        <a href="#">
+                                            <i class="fa fa-eye primary-3" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                    <h3><a href="#">GitLab</a></h3>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sweep-right image-gradient"></div>
+                    </div>
+                    <!-- /.portfolio-img -->
+                </div>
+                
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="portfolio-img fourth">
+                        <img class="img-responsive" src="assets/images/ibm.png"
+                             alt="porftofilio thumbnail">
+                        <div class="sweep-left image-gradient"></div>
+                        <div class="sweep-from-center">
+                            <div class="sweep-layer">
+                                <div class="sweep-content">
+                                    <div class="sweep-icon">
+                                        <a href="#">
+                                            <i class="fa fa-eye primary-3" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                    <h3><a href="#">IBM India</a></h3>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sweep-right image-gradient"></div>
+                    </div>
+                    <!-- /.portfolio-img -->
+                </div>
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="portfolio-img fourth">
+                        <img class="img-responsive" src="assets/images/msi.jpg"
+                             alt="porftofilio thumbnail">
+                        <div class="sweep-left image-gradient"></div>
+                        <div class="sweep-from-center">
+                            <div class="sweep-layer">
+                                <div class="sweep-content">
+                                    <div class="sweep-icon">
+                                        <a href="#">
+                                            <i class="fa fa-eye primary-3" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                    <h3><a href="#">MSI </a></h3>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sweep-right image-gradient"></div>
+                    </div>
+                    <!-- /.portfolio-img -->
+                </div>
+            </div>
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container-fluid -->
+</section>
+<!-- /.our-work-section -->
