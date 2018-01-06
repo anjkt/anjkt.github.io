@@ -2,7 +2,7 @@ var pos=0;
 var h=0;
 var vb=0;
 $(document).ready(function(){
-	$("#loading-screen").fadeOut(500);
+	$("#loading-screen").fadeOut(50000);
 	//check1();
 	moveAround();
 })
