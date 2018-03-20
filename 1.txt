@@ -1,0 +1,57 @@
+<script>
+function validateForm() {
+    var x = document.forms["myForm"]["email"].value;
+    var atpos = x.indexOf("@");
+    var dotpos = x.lastIndexOf(".");
+    if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length) {
+        alert("Not a valid e-mail address");
+        return false;
+    }
+}
+</script>
+
+<html>
+   
+   <head>
+      <title>JavaScript Animation</title>
+      
+      <script type="text/javascript">
+         <!--
+            var imgObj = null;
+            var animate ;
+            
+            function init(){
+               imgObj = document.getElementById('myImage');
+               imgObj.style.position= 'relative'; 
+               imgObj.style.left = '0px'; 
+            }
+            
+            function moveRight(){
+               imgObj.style.left = parseInt(imgObj.style.left) + 10 + 'px';
+               animate = setTimeout(moveRight,20); // call moveRight in 20msec
+            }
+            
+            function stop(){
+               clearTimeout(animate);
+               imgObj.style.left = '0px'; 
+            }
+            
+            window.onload =init;
+         //-->
+      </script>
+      
+   </head>
+   
+   <body>
+   
+      <form>
+         <img id="myImage" src="/images/html.gif" />
+         <p>Click the buttons below to handle animation</p>
+         <input type="button" value="Start" onclick="moveRight();" />
+         <input type="button" value="Stop" onclick="stop();" />
+      </form>
+      
+   </body>
+</html>
+
+
