@@ -143,7 +143,7 @@ a .blog-item {
 }
 
 .bg-secondary-animated, body.error {
-    background-image: linear-gradient(to right,#7D2AE8 , #00C4CC, #7D2AE8);
+    background-image: linear-gradient(to right,#7D2AE8 , #14635C, #7D2AE8);
     background-size: 300% 100%;
     background-position: 0% center;
     -webkit-animation: gradientAnimation 10s ease infinite;
