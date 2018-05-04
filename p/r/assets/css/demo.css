@@ -1,0 +1,110 @@
+body {
+  font-family: 'Quattrocento Sans', sans-serif;
+  color: #505458;
+  font-size: 14px;
+  line-height: 22px;
+  overflow-x:hidden;
+}
+
+.section{
+  padding: 80px 0;
+}  
+
+.container-fluid{
+  width: 85%;
+}
+
+.home-section{
+  background-color: #f8f9fa; 
+  padding:100px 0;
+}
+
+.img-logo{
+  height: 38px;
+}
+
+.demo-logo{
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+.home-img-box {
+  padding: 20px 0 30px 0; 
+  text-align: center;
+}
+
+.home-img-box a {
+  border: 5px solid #f2f2f2;
+  display: block;
+  -webkit-transition: all 400ms ease-in-out;
+  -moz-transition: all 400ms ease-in-out;
+  -o-transition: all 400ms ease-in-out;
+  transition: all 400ms ease-in-out;
+}
+
+.home-img-box img {
+  width: 100%;
+  height: auto;
+  position: relative;
+  top: 0;
+}
+
+.home-img-box h5 {
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.footer {
+  padding: 30px 0px;
+  background-color: #f8f9fa;
+}
+
+.border {
+  height: 4px;
+  width: 60px;
+  border-radius: 5px;
+  margin: 0 auto 30px;
+  background-color: #01bf86;
+}
+
+.title {
+  margin-bottom: 15px;
+  font-size: 22px;
+}
+
+.copyright{
+  font-size:20px;
+}
+
+.btn {
+    padding: 12px 26px;
+}
+
+.btn-rounded {
+    border-radius: 30px;
+}
+
+.btn-custom {
+    background-color: #ff546c;
+    border: 2px solid #ff546c;
+    color: #fff;
+    transition: all 0.5s;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active,
+.btn-custom.focus,
+.btn-custom:active,
+.btn-custom:focus,
+.btn-custom:hover,
+.open>.dropdown-toggle.btn-custom {
+    background-color: #e6475e;
+    border-color: #e6475e;
+    color: #f3f3f3;
+}
